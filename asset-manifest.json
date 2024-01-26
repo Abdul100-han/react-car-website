@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-car-website/static/css/main.f2ad7164.css",
+    "main.js": "/react-car-website/static/js/main.84a86289.js",
+    "static/media/drive.jpg": "/react-car-website/static/media/drive.5023b09c19863736fc67.jpg",
+    "index.html": "/react-car-website/index.html",
+    "main.f2ad7164.css.map": "/react-car-website/static/css/main.f2ad7164.css.map",
+    "main.84a86289.js.map": "/react-car-website/static/js/main.84a86289.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2ad7164.css",
+    "static/js/main.84a86289.js"
+  ]
+}
